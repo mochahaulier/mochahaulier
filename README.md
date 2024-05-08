@@ -1,6 +1,18 @@
 ### Hi there 👋
 
-Stuff I play with: Tech Stack
+I'm Mike, a programmer and computational scientist.
+
+Professionally I mainly write molecular simulation codes, however, I've been programming in one way or another since I was a child.
+
+Computers and programming are my hobbies, so I've played around with a few different things in my free time.
+
+Lately I am exploring and enjoying some full stack development using React and Spring. Some of the things I put together are on this GitHub.
+
+All of them are just working MVPs to show certain functionality. They're neither supposed to be optimised nor completely cleaned up.
+
+The Spring backend in the example repositories is hosted on render, with the corresponding frontend on GitHub pages.
+
+Some stuff I play around with (Tech Stack):
 
 <!-- Languages -->
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
