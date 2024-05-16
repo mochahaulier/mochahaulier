@@ -6,7 +6,7 @@ Professionally I mainly write molecular simulation codes, however, I've been pro
 
 Computers and programming are my hobbies, so I've played around with a few different things in my free time.
 
-Lately I am exploring and enjoying some full stack development using React and Spring. Some of the things I put together are on this GitHub.
+Lately I am exploring and enjoying some full stack development using React and Spring. I've put together some simple examples, to not spend too much time with stuff I'm not really going to use for anything else, and put them on this GitHub.
 
 All of them are just working MVPs to show certain functionality. They're neither supposed to be optimised nor completely cleaned up.
 
