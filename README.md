@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Mike, a programmer and computational scientist.
-
-Professionally I mainly write molecular simulation codes, however, I've been programming in one way or another since I was a child.
+I'm Mike, a programmer and computational scientist. Professionally I mainly write molecular simulation codes, however, I've been programming in one way or another since I was a child.
 
 Computers and programming are my hobbies, so I've played around with a few different things in my free time.
 
@@ -10,7 +8,9 @@ Lately I am exploring and enjoying some full stack development using React and S
 
 All of them are just working MVPs to show certain functionality. They're neither supposed to be optimised nor completely cleaned up.
 
-The Spring backend in the example repositories is hosted on render, with the corresponding frontend on GitHub pages.
+The Spring backend in the example repositories is hosted on render, with the corresponding React frontend on GitHub pages.
+
+I've tried and used several databases, MySQL, MongoDB, but in the examples I use a PostgreSQL DB that's easily set up on Render, too. Not that that matters much for hibernate.
 
 Some stuff I play around with (Tech Stack):
 
